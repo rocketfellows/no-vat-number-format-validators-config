@@ -19,6 +19,7 @@ jobs:
       - name: PHPStan Static Analysis source code
         uses: php-actions/phpstan@v3
         with:
+          version: 1.10.14
           configuration: ./phpstan.neon.dist
   run-php-unit-tests:
     needs: run-php-stan
