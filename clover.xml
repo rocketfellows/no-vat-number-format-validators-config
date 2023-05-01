@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1682862853">
-  <project timestamp="1682862853">
+<coverage generated="1682955133">
+  <project timestamp="1682955133">
     <file name="/app/src/NOVatNumberFormatValidatorsConfig.php">
       <class name="rocketfellows\NOVatNumberFormatValidatorsConfig\NOVatNumberFormatValidatorsConfig" namespace="global">
         <metrics complexity="2" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
